@@ -1,0 +1,8 @@
+CONCEITUAL: O storytelling diz que podemos ter varios personagens, 
+porém cada um, apenas uma classe,cada classe possui suas habilidades, 
+e cada habilidade seu tipo.
+
+LÓGICO: No documento lógico dividimos as características e termos técnicos em tabelas, 
+achamos necessário a criação de uma tabela intermediaria.
+
+FÍSICO: No documento físico colocamos o restante dos detalhes que o storytelling tinha pedido.
