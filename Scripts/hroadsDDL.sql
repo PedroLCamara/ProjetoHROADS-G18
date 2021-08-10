@@ -8,7 +8,7 @@ GO
 
 create table classe (
 IDclasse tinyint primary key identity(1,1),
-nomeClasse VARCHAR(30)
+nomeClasse VARCHAR(30) not null,
 );
 GO
 
