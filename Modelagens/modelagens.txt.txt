@@ -1,8 +1,7 @@
 CONCEITUAL: O storytelling diz que podemos ter varios personagens, 
-porém cada um, apenas uma classe,cada classe possui suas habilidades, 
-e cada habilidade seu tipo.
+porém cada um, apenas uma classe que pode ser divida entre muitos personagens (evidenciando uma relação de (personaagem)N:1(classe),cada classe possui suas habilidades, que se repetem em diferentes classes (evidenciando uma relação de (classe)N:N(habilidade)), 
+e cada habilidade seu tipo, que pode ser dividido entre diferentes habilidades (evidenciando uma relação de (habilidade)N:1(tipo)).
 
-LÓGICO: No documento lógico dividimos as características e termos técnicos em tabelas, 
-achamos necessário a criação de uma tabela intermediaria.
+LÓGICO: No documento lógico dividimos as características e chaves em tabelas, achamos necessário a criação de uma tabela intermediaria para interligar a classe e a habilidade, por conta de possuirem uma relação de N:N.
 
-FÍSICO: No documento físico colocamos o restante dos detalhes que o storytelling tinha pedido.
+FÍSICO: No documento físico colocamos os dados que o storytelling tinha pedido e também destacamos as chaves primárias e secundárias.
